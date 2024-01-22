@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="trimpot" size="1.000000 0.868536" />
+    <ImageTarget name="resistor" size="1.000000 0.304333" />
+    <ImageTarget name="potensiometer" size="1.000000 0.749278" />
+    <ImageTarget name="mkm" size="1.000000 0.380727" />
+    <ImageTarget name="milar" size="1.000000 0.371154" />
+    <ImageTarget name="PTC" size="1.000000 0.649746" />
+    <ImageTarget name="NTC" size="1.000000 0.583911" />
+    <ImageTarget name="LDR" size="1.000000 0.787062" />
+    <ImageTarget name="keramik" size="1.000000 0.384750" />
+    <ImageTarget name="induktor" size="1.000000 0.302845" />
+    <ImageTarget name="elco" size="1.000000 0.365599" />
+  </Tracking>
+</QCARConfig>
